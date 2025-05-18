@@ -51,6 +51,7 @@ It uses temporary threads (right pointers) to keep track of where to return afte
   2
  /
 3
+🧭 Inorder: [1, 3, 2]
 
 ```
 
